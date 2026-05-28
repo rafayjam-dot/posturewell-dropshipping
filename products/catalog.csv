@@ -1,0 +1,8 @@
+sku,handle,title,category,status,shopify_price_usd,supplier_cost_usd,margin_pct,supplier,shipping_days,notes
+PW-PC-001,posture-corrector-classic,Classic Posture Corrector,Posture Correctors,live,29.99,4.20,86,DSers/AliExpress,9-15,Best seller; size S/M/L
+PW-PC-002,posture-corrector-pro,Pro Posture Corrector (Adjustable),Posture Correctors,live,39.99,6.80,83,DSers/AliExpress,9-15,Adjustable straps
+PW-LS-001,lumbar-support-mesh,Mesh Lumbar Support,Lumbar Supports,live,24.99,5.10,80,DSers/AliExpress,10-18,Office chair fit
+PW-LS-002,lumbar-support-memory-foam,Memory Foam Lumbar Cushion,Lumbar Supports,live,34.99,7.50,79,DSers/AliExpress,12-20,Premium variant
+PW-NC-001,neck-cervical-pillow,Cervical Neck Pillow,Neck Support,live,22.99,4.90,79,DSers/AliExpress,10-16,
+PW-ST-001,sit-stand-cushion,Posture Seat Cushion,Seat Cushions,research,,3.80,,DSers/AliExpress,10-18,Validate ad angles
+PW-AC-001,resistance-band-set,Posture Resistance Band Set,Accessories,research,,2.40,,DSers/AliExpress,9-14,Cross-sell candidate
